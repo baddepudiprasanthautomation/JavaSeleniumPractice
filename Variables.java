@@ -1,7 +1,8 @@
 public class Variables {
     public static void main(String[] args) {
-        //datatype variablereference = value;
-
+        //datatype variable reference = value;
+        // a is reference
+        // after equal to 'assigning'
         int a = 1799999999; //valid
         int b = 34;
 
