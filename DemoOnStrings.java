@@ -29,7 +29,7 @@ public class DemoOnStrings {
         char ch2 = str.charAt(lastIndex);
         System.out.println("character  is  "+ ch2);
 
-       boolean status = str.contains("Auto");
+        boolean status = str.contains("Auto");
         System.out.println(" given string is containing expected value   "+status);
     }
 }
