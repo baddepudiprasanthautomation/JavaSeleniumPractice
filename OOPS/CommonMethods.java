@@ -25,7 +25,6 @@ public class CommonMethods {
     /*
      It should be lower case
      The second word must be upper case
-
      */
     public int lengthOfString(String inputString)
     {
